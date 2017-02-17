@@ -44,9 +44,12 @@ tuple, and ___4___ or can be more complicated such as objects and lambda functio
 		# if no - then  - 'Did you really think you could get out of this? Let's begin!
 	# 2. the next thing to do is to ask "Do you feel lucky? Well, do ya?" and provide the user with three options to select from
 		# Show "Please place your Quiz order" - "Tall", "Grande", or "Venti"
-		# Tall Quiz - """
-		# Grande Quiz - 
-		# Venti Quiz - 
+		# Tall Quiz - """What's my favorite movie? The first film was released in 1977, and was Directed by George Lucas. 
+			#This was the first installment in a series of films. The movie had a two friendly robots. A blue and white one named 
+			#___1___-D2, and one that was all gold named ___2___-PO. The movie uses the Force and ___3___ sabers. You guessed it, my favorite
+			#is Star ___4___ Episode IV: A New Hope"""
+		# Grande Quiz - """
+		# Venti Quiz - """
 
 		#The proper Quiz will need to display with 1-4 listed as blanks
 			#if the first answer is correct then print the quiz with that answer filled in and ask for the next response...repeat until complete.
